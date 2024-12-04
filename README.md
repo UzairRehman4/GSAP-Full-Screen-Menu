@@ -1,8 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Modern Menu Animation
 
-## Getting Started
+A modern animated menu implementation using Next.js, GSAP, and CSS animations.
 
-First, run the development server:
+![Menu Preview](docs/preview.gif)
+
+## 🚀 Demo
+
+[Live Demo](your-deployed-url-here)
+
+## ✨ Features
+
+- Smooth GSAP animations
+- Responsive design
+- Modern UI/UX
+- Next.js implementation
+- Clean animations
+- Mobile-friendly
+
+## 🛠️ Tech Stack
+
+- [Next.js](https://nextjs.org/)
+- [GSAP](https://greensock.com/gsap/)
+- CSS3
+- JavaScript
+
+## 🚦 Getting Started
+
+1. Clone the repository:
 
 ```bash
 npm run dev
