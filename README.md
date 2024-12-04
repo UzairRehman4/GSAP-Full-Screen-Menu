@@ -2,11 +2,8 @@
 
 A modern animated menu implementation using Next.js, GSAP, and CSS animations.
 
-![Menu Preview](docs/preview.gif)
+![Menu Preview](/public/preview.png)
 
-## 🚀 Demo
-
-[Live Demo](your-deployed-url-here)
 
 ## ✨ Features
 
